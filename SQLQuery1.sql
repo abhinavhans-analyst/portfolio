@@ -1,3 +1,5 @@
+--Data Analysis on Covid dataset with two different dataset, covid_deaths and covid_vaccinations--
+
 select * 
 from portfolio_project..covid_deaths$
 where continent is not Null
